@@ -1,13 +1,13 @@
 +++
 author = "Marcel Kraus"
-categories = ["Allgemein"]
+categories = ["Vorfreude"]
 date = "2019-06-04"
 description = "“Möchten Sie die Raumschiff-Optik oder Alltagstauglichkeit?”"
 featured = "innenraum-schwarz-oder-weiss.jpg"
 featuredalt = "Der Innenraum des Model 3 - in schwarz oder weiß?"
 featuredpath = "date"
 linktitle = ""
-tags = ["Bestellprozess", "Innenraum"]
+tags = ["Konfiguration", "Innenraum"]
 title = "Eine Frage der Farbe"
 type = "post"
 +++

@@ -1,13 +1,13 @@
 +++
 author = "Marcel Kraus"
-categories = ["Allgemein"]
+categories = ["Vorfreude"]
 date = "2019-06-03"
 description = "“Ihre Bestellung ist bestätigt.”"
 featured = "model3-konfiguration.jpg"
 featuredalt = "Mein Tesla Model 3 laut Konfiguration: Perl-Weiß mit Aero-Felgen"
 featuredpath = "date"
 linktitle = ""
-tags = ["Bestellprozess"]
+tags = ["Konfiguration"]
 title = "Das Abenteuer beginnt"
 type = "post"
 +++
