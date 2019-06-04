@@ -1,0 +1,48 @@
+[date_format]
+  other = "2 January 2006"
+[postreadingtime]
+  other = "Minuten"
+[recent_posts]
+  other = "Letzte Beiträge"
+[see_more]
+  other = "Mehr erfahren"
+[read_more]
+  other = "Weiterlesen"
+[categories]
+  other = "Kategorien"
+[category]
+  other = "Kategorie"
+[tags]
+  other = "Tags"
+[tag]
+  other = "Tag"
+[uncategorized]
+  other = "Unkategorisiert"
+[share_post]
+  other = "Teilen"
+[about]
+  other = "Über mich"
+[learn_more]
+  other = "Mehr erfahren"
+[repliestext]
+  other = "Antworten innerhalb von"
+[hours]
+  other = "Stunden"
+[submit]
+  other = "Senden"
+[404_oops]
+  other = "Oops, the page you're<br/>looking for does not exist."
+[404_backorreport]
+  other = "You may want to head back to the homepage.<br/>If you think something is broken, report a problem."
+[404_gotohome]
+  other = "Zur Homepage"
+[404_report]
+  other = "Problem melden"
+[blog]
+  other = "Blog"
+[contact]
+  other = "Kontakt"
+[next_page]
+  other = "Nächste Seite"
+[previous_page]
+  other = "Vorherige Seite"
