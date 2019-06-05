@@ -67,5 +67,4 @@ disableLanguages = [""]
         identifier = "far fa-list"
         weight = 99
 [social]
-    email = "hello@t-wie-tesla.de"
     github = "marcelkraus/t-wie-tesla"
