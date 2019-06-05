@@ -6,6 +6,7 @@ preserveTaxonomyNames = true
 paginate = 3
 pluralizeListTitles = false
 disableLanguages = [""]
+googleAnalytics = "UA-12561257-15"
 
 [params]
     cssFiles = ["default"]
