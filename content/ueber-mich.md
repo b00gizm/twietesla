@@ -1,6 +1,5 @@
 +++
 title = "Über mich"
-date = "2010-05-27"
 +++
 
 Mein Name ist Marcel, ich bin 35 Jahre alt und ein bekennender Auto-Liebhaber: In den 17 Jahren, in denen ich nun Auto fahre, habe ich insgesamt 38 Autos besessen.
