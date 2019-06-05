@@ -52,15 +52,20 @@ disableLanguages = [""]
         identifier = "fas fa-home"
         weight = 1
     [[menu.main]]
-        name = "Über mich"
-        url = "/ueber-mich/"
-        identifier = "far fa-id-card"
-        weight = 2
-    [[menu.main]]
         name = "Blog"
         url = "/blog/"
         identifier = "far fa-newspaper"
+        weight = 2
+    [[menu.main]]
+        name = "Über mich"
+        url = "/ueber-mich/"
+        identifier = "far fa-id-card"
         weight = 3
+    [[menu.main]]
+        name = "Impressum"
+        url = "/impressum/"
+        identifier = "far fa-list"
+        weight = 99
 [social]
     email = "hello@t-wie-tesla.de"
     github = "marcelkraus/t-wie-tesla"
