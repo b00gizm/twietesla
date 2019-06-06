@@ -36,3 +36,5 @@ Ich habe mich für den perl-weißen Lack entschieden. In Kombination mit den wei
 Wir sprechen von einem nochmaligen Aufpreis von 1.050 €. Das Fahrzeug ist in der gebotenen Ausstattung schon hochpreisig genug für meine Verhältnisse. Davon abgesehen, bekommt man für dieses Geld auch schon eine sehr gute Versiegelung des Lacks. ;)
 
 Das waren meine fünf Gründe für das schwarze und gegen das weiße Interior. Natürlich ist am schwarzen Interior auch nicht alles perfekt; der graue Dachhimmel stört mich auch hier ein wenig und das Holz am Armaturenbrett geht für mich gar nicht. Sollte ich mich nicht daran gewöhnen, werde ich die Leiste gegen eine Leiste in Wagenfarbe tauschen oder diese folieren.
+
+*(Titelbild: [Tesla Motors, Inc.](https://www.tesla.com), bearbeitet)*

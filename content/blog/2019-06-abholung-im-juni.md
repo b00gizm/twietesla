@@ -16,3 +16,5 @@ Soeben habe ich die SMS von Tesla erhalten, die ich so sehnsüchtig erwartet hab
 Am Freitag, den 21. Juni, werde ich mein Model 3 in Neuss abholen. Mir bleiben jetzt also noch genau 16 Tage, um Kennzeichen und div. Goodies zu besorgen und das Fahrzeug zuzulassen.
 
 Mit der Rechnung über die Restsumme rechne ich in der kommenden Woche. Gut, dass ich da im wohlverdienten Urlaub bin… ;)
+
+*(Titelbild: [Tesla Motors, Inc.](https://www.tesla.com))*

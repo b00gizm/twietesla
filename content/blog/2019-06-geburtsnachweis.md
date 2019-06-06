@@ -22,4 +22,4 @@ Wie dem auch sei, ich habe das Fahrzeug ja _ohne_ die Unterstützung für das au
 
 Die endgültige Bestätigung habe ich leider erst, wenn das Fahrzeug hier ist. Aber ich bin zuversichtlich, dass der Support mit seiner Aussage richtig lag - und alleine um das Geburtsdatum zu erfahren, hat sich die ca. halbstündige Wartezeit im Chat schon gelohnt.
 
-*(Titelbild von [Taun Stewart](https://unsplash.com/@tesla3?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/search/photos/tesla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+*(Titelbild: [Taun Stewart](https://unsplash.com/@tesla3?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/search/photos/tesla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*

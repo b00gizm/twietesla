@@ -42,3 +42,5 @@ Anhand der Nummernkreise lässt sich nun auch sehr grob das Produktionsdatum mei
 Aktuell gehe ich davon aus, dass mein Fahrzeug in einem Zeitraum zwischen dem 22. April und 6. Mai produziert wurde und mit dem Schiff “Grand Phoenix” am Abend des 4. Juni in Europa angekommen ist. Das VIN-Matching, also die Zuordnung von Fahrzeug zu Besitzer, erfolgte dann gestern im Laufe des Tages.
 
 Bei dieser Aussage handelt es sich um Mutmaßung und Interpretation meinerseits. Ich werde aber versuchen, Gewissheit in dieser Fragestellung durch Rücksprache mit Tesla zu erhalten; mich interessiert die Geschichte meines Fahrzeugs eben. ;)
+
+*(Titelbild: [Tesla Motors, Inc.](https://www.tesla.com))*

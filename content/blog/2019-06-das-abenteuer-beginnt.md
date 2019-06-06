@@ -20,3 +20,5 @@ Dennoch habe ich vergangene Woche zugeschlagen und mir damit einen großen Traum
 Ich plane das Auto über einen Zeitraum von mindestens fünf Jahren zu fahren und habe diesen Blog erstellt, um meine Erfahrungen und Erlebnisse festhalten zu können. Zusätzlich zu dem geschriebenen Wort möchte ich den interessierten Leser mit Videos an meinen ganz persönlichen Erfahrungen mit dem Fahrzeug teilhaben lassen.
 
 Und so beginnt für uns alle ein neues Abenteuer, der gemeinsame Start in die spannende Welt der Elektromobilität. Ich freue mich drauf!
+
+*(Titelbild: [Tesla Motors, Inc.](https://www.tesla.com))*
