@@ -1,15 +1,14 @@
 +++
-author = "Marcel Kraus"
-categories = ["Vorfreude"]
+type = "post"
 date = "2019-06-06 12:00:00"
+title = "Anatomie einer VIN"
 description = "Was uns die Fahrgestellnummer alles verrät…"
+author = "Marcel Kraus"
 featured = "model3-auf-parkplatz.jpg"
 featuredalt = "Ein Tesla Model 3 auf einem Parkplatz"
 featuredpath = "date"
-linktitle = ""
+categories = ["Vorfreude"]
 tags = ["Konfiguration", "Tipps & Tricks"]
-title = "Anatomie einer VIN"
-type = "post"
 +++
 
 Neben der SMS mit dem Liefertermin habe ich gestern im Quelltext der Tesla-Homepage auch meine Fahrgestellnummer gefunden - manchmal hat es Vorteile, IT-Erfahrung zu haben.

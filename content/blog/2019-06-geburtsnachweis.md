@@ -1,15 +1,14 @@
 +++
-author = "Marcel Kraus"
-categories = ["Vorfreude"]
+type = "post"
 date = "2019-06-06 18:00:00"
+title = "Geburtsnachweis"
 description = "Was der Tesla-Support über das Fahrzeug verrät…"
+author = "Marcel Kraus"
 featured = "model3-strasse-mit-schnee-unsplash-1359098.jpg"
 featuredalt = "Weißes Model 3 auf einer Landstraße mit Schnee"
 featuredpath = "date"
-linktitle = ""
+categories = ["Vorfreude"]
 tags = ["Konfiguration"]
-title = "Geburtsnachweis"
-type = "post"
 +++
 
 Ein abendlicher Chat mit dem Tesla-Support bringt interessante Dinge zu Tage. So nehme ich heute zwei Erkenntnisse gut gelaunt mit ins Bettchen!
