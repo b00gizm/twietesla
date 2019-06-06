@@ -1,7 +1,7 @@
 +++
 author = "Marcel Kraus"
 categories = ["Vorfreude"]
-date = "2019-06-06"
+date = "2019-06-06 12:00:00"
 description = "Was uns die Fahrgestellnummer alles verrät…"
 featured = "model3-auf-parkplatz.jpg"
 featuredalt = "Ein Tesla Model 3 auf einem Parkplatz"
