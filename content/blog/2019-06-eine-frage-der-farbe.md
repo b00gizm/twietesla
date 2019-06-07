@@ -2,13 +2,13 @@
 type = "post"
 date = "2019-06-04 12:00:00"
 title = "Eine Frage der Farbe"
-description = "“Möchten Sie die Raumschiff-Optik oder Alltagstauglichkeit?”"
+description = "Raumschiff-Optik oder Alltagstauglichkeit?"
 author = "Marcel Kraus"
 featured = "innenraum-schwarz-oder-weiss.jpg"
 featuredalt = "Der Innenraum des Model 3 - in schwarz oder weiß?"
 featuredpath = "date"
 categories = ["Vorfreude"]
-tags = ["Konfiguration", "Innenraum"]
+tags = ["Konfiguration"]
 +++
 
 Selten ist mir eine Entscheidung schwerer gefallen - selbst nach einer Woche hatte ich noch Zweifel: Habe ich richtig entschieden?

@@ -2,7 +2,7 @@
 type = "post"
 date = "2019-06-05 12:00:00"
 title = "Abholung im Juni"
-description = "“Das Wochenende kann kommen!”"
+description = "Das Wochenende kann kommen…"
 author = "Marcel Kraus"
 featured = "model3-keycard-an-b-saeule.jpg"
 featuredalt = "Keycard des Tesla Model 3 an der B-Säule"

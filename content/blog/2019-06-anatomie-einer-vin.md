@@ -8,7 +8,7 @@ featured = "model3-auf-parkplatz.jpg"
 featuredalt = "Ein Tesla Model 3 auf einem Parkplatz"
 featuredpath = "date"
 categories = ["Vorfreude"]
-tags = ["Konfiguration", "Tipps & Tricks"]
+tags = ["Tipps"]
 +++
 
 Neben der SMS mit dem Liefertermin habe ich gestern im Quelltext der Tesla-Homepage auch meine Fahrgestellnummer gefunden - manchmal hat es Vorteile, IT-Erfahrung zu haben.

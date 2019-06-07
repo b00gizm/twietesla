@@ -2,7 +2,7 @@
 type = "post"
 date = "2019-06-03 12:00:00"
 title = "Das Abenteuer beginnt"
-description = "“Ihre Bestellung ist bestätigt.”"
+description = "Ihre Bestellung ist bestätigt…"
 author = "Marcel Kraus"
 featured = "model3-konfiguration.jpg"
 featuredalt = "Mein Tesla Model 3 laut Konfiguration: Perl-Weiß mit Aero-Felgen"
