@@ -17,7 +17,7 @@ Die Fahrgestellnummer, auch FIN (“Fahrzeug-Identifikationsnummer”) oder amer
 
 Meine Fahrgestellnummer lautet `5YJ3E7EB1KF367XXX`. Schauen wir doch spaßeshalber etwas genauer hin und schauen uns an, was diese Buchstaben und Zahlen bedeuten:
 
-Die ersten drei Stellen `5YJ` kennzeichen den Hersteller des Fahrzeugs, in diesem Falle natürlich die Firma **Tesla Motors, Inc.**.
+Die ersten drei Stellen `5YJ` kennzeichen den Hersteller des Fahrzeugs, in diesem Falle natürlich die Firma **Tesla, Inc.**.
 
 Die vierte Stelle `3` kennzeichnet das konkrete Modell des Fahrzeugs, in diesem Falle steht die 3 für das **Model 3** - und dreimal dürft ihr raten, für was S, X und Y steht… ;)
 
@@ -43,4 +43,4 @@ Aktuell gehe ich davon aus, dass mein Fahrzeug in einem Zeitraum zwischen dem 22
 
 Bei dieser Aussage handelt es sich um Mutmaßung und Interpretation meinerseits. Ich werde aber versuchen, Gewissheit in dieser Fragestellung durch Rücksprache mit Tesla zu erhalten; mich interessiert die Geschichte meines Fahrzeugs eben. ;)
 
-*(Titelbild: [Tesla Motors, Inc.](https://www.tesla.com))*
+*(Titelbild: [Tesla, Inc.](https://www.tesla.com))*

@@ -17,4 +17,4 @@ Am Freitag, den 21. Juni, werde ich mein Model 3 in Neuss abholen. Mir bleiben j
 
 Mit der Rechnung über die Restsumme rechne ich in der kommenden Woche. Gut, dass ich da im wohlverdienten Urlaub bin… ;)
 
-*(Titelbild: [Tesla Motors, Inc.](https://www.tesla.com))*
+*(Titelbild: [Tesla, Inc.](https://www.tesla.com))*

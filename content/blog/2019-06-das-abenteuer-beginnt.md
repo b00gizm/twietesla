@@ -21,4 +21,4 @@ Ich plane das Auto über einen Zeitraum von mindestens fünf Jahren zu fahren un
 
 Und so beginnt für uns alle ein neues Abenteuer, der gemeinsame Start in die spannende Welt der Elektromobilität. Ich freue mich drauf!
 
-*(Titelbild: [Tesla Motors, Inc.](https://www.tesla.com))*
+*(Titelbild: [Tesla, Inc.](https://www.tesla.com))*
