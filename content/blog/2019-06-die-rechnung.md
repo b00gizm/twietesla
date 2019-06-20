@@ -8,7 +8,7 @@ featured = "tesla-logo-in-einem-model-s.jpg"
 featuredalt = "Ein Tesla Model S auf einer Straße in Kanada"
 featuredpath = "date"
 categories = ["Vorfreude"]
-tags = ["Konfiguration"]
+tags = ["Bestellprozess"]
 +++
 
 Ganz unspektakulär: Ca. 24 h nach dem Anruf von Christina war die Rechnung im Account hinterlegt.

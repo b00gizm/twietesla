@@ -8,7 +8,7 @@ featured = "model-s-auf-strasse.jpg"
 featuredalt = "Ein Tesla Model S auf einer Straße in Kanada"
 featuredpath = "date"
 categories = ["Vorfreude"]
-tags = ["Konfiguration"]
+tags = ["Bestellprozess"]
 +++
 
 Am 11. Juni 2019 klingelte gegen 17:00 Uhr das Telefon - Tesla aus München war dran.

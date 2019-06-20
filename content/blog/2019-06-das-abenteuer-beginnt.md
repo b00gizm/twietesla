@@ -8,7 +8,7 @@ featured = "model3-konfiguration.jpg"
 featuredalt = "Mein Tesla Model 3 laut Konfiguration: Perl-Weiß mit Aero-Felgen"
 featuredpath = "date"
 categories = ["Vorfreude"]
-tags = ["Konfiguration"]
+tags = ["Bestellprozess", "Konfiguration"]
 +++
 
 Ich habe es getan: Nach 37 Gebrauchtwagen habe ich vor genau einer Woche, am 27. Mai 2019, den ersten Neuwagen meines Lebens bestellt…

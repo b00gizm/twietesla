@@ -8,7 +8,7 @@ featured = "fahrzeugpapiere-tesla-familie.jpg"
 featuredalt = "Die Fahrzeugpapiere des Tesla Model 3"
 featuredpath = "date"
 categories = ["Vorfreude"]
-tags = ["Konfiguration"]
+tags = ["Bestellprozess"]
 +++
 
 UPS war da, die Papiere liegen endlich vor. Nun kann das Model 3 angemeldet werden.

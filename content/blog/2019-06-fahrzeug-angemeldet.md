@@ -8,7 +8,7 @@ featured = "ampelanlage-gruenes-licht.jpg"
 featuredalt = "Grünes Licht auf einer Ampelanlage vor dem Himmel"
 featuredpath = "date"
 categories = ["Vorfreude"]
-tags = ["Konfiguration"]
+tags = ["Zulassung"]
 +++
 
 Es hat alles geklappt, mein Model 3 ist angemeldet: Am 18. Juni 2019.
