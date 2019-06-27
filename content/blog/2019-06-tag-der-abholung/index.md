@@ -27,6 +27,8 @@ Obwohl wir 30 Minuten vor dem Termin eintrafen, haben wir maximal fünf Minuten 
 
 Die Übergabe dauerte ca. 20 Minuten, die freundliche Tesla-Mitarbeiterin nahm sich die Zeit, alle meine Fragen zu beantworten. Danach wurde die Inzahlunngsnahme des Altfahrzeugs abgewickelt und Manuela und mir blieb noch mehr als genug Zeit, unsere Checkliste zur Abholung durchzugehen (über diese werde ich in den nächsten Tagen auch noch einige Worte verlieren).
 
+{{< image "images/manuela-marcel-mit-model-3.jpg" "Die neuen Besitzer des Tesla Model 3 bei der Abholung in Neuss" "Der Stolz ist nicht zu übersehen: Mein Vater machte während der Übergabe das erste “Familienfoto”." >}}
+
 Mein Auto war aufbereitet - gut, aber nicht perfekt. Es gab ein paar Stellen im Lack, die vor Ort noch gereinigt wurden, poliert werden musste nichts. An der Heckscheibe sind uns unmittelbar vor Abfahrt noch mögliche Kratzer aufgefallen; der Schaden wurde aufgenommen und wird von Tesla in den nächsten Wochen oder Monaten korrigiert, ich solle einfach einen Termin bei einem Body-Shop machen. Kommen wir zu den negativen Dingen…
 
 ### Die negativen Dinge
@@ -34,6 +36,8 @@ Mein Auto war aufbereitet - gut, aber nicht perfekt. Es gab ein paar Stellen im 
 Man kauft ein Auto für 55.380,- € nach Abzug aller Rabatte; natürlich schaut man hier etwas genauer hin. Ich fahre seit meinem 19. Lebensjahr amerikanische Fahrzeuge, vorwiegend [aus den 80er Jahren](https://www.myknight.de/) – ich bin Schmerz beim Thema Lackverarbeitung, Materialanmutung und Spaltmaße also gewohnt.
 
 In Kurzform: Mein Auto ist bei weitem nicht perfekt, aber auch nicht so schlimm, wie gerne in Foren kommuniziert wird. Die Heckklappe ist z.B. gerade eingebaut, der Ladeport korrekt eingepasst, keine Scheiben sind gerissen und auch der Frunkdeckel ist mittig montiert. Die Spaltmaße sind ebenfalls nicht perfekt, aber für meinen persönlichen Akzeptanzbereich (der kritisch ist) wirklich in Ordnung.
+
+{{< image "images/model-3-in-einfahrt.jpg" "Das Tesla Model 3 in einer Einfahrt" "In der Einfahrt meiner Eltern macht das Model 3 eine hervorragende Figur. Die Spaltmaße sind, bis auf wenige Ausnahmen, absolut im Rahmen." >}}
 
 Dennoch gibt es sie, die “Mängel“. Doch über diese werde ich in einem separaten Artikel schreiben, denn hier soll es um die Abholung gehen. Und eine Sache darf hier natürlich nicht fehlen:
 
@@ -52,5 +56,7 @@ Ich kann die Gefühle mit Worten nicht beschreiben, mir fehlt das Vokabular daf�
 Das hier ist “Autofahren 2.0”, nichts anderes. Ich bin mehr als begeistert – Autos waren für mich immer mehr als nur Fortbewegungsmittel, sondern eine Leidenschaft. Das hier ist der Hammer: Lautlose Kraft, zu jedem Zeitpunkt - es ist nicht so wie ich es mir vorgestellt habe, es ist noch viel besser.
 
 Danke an Tesla für dieses Erlebnis. Ich freue mich auf wunderbare Jahre mit meinem Model 3!
+
+{{< image "images/model-3-am-supercharger.jpg" "Tesla Model 3 am Supercharger" "Natürlich wurde abends noch direkt das Supercharging getestet. So viele Jahre habe ich darauf gewartet, endlich an diesem Supercharger laden zu können!" >}}
 
 Natürlich endet dieser Blog nicht mit der Abholung – im Gegenteil, nun geht es erst richtig los. In den nächsten Tagen werde ich über meine ersten Erlebnisse mit dem Model 3 berichten…

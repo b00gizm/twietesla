@@ -1,0 +1,6 @@
+{{ $image := $.Page.Resources.GetMatch (.Get 0) }}
+
+<figure style="background-color: #f4f4f4; border: 1px solid #e3e3e3;">
+	<img src="{{ $image.RelPermalink }}" alt="{{ (.Get 1) }}" title="{{ (.Get 2) }}" width="100%" />
+	<figcaption style="padding: 10px;">{{ (.Get 2) }}</figcaption>
+</figure>
