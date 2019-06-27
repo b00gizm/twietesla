@@ -6,7 +6,6 @@ description = "Vorfreude ist angeblich die schönste Freude…"
 author = "Marcel Kraus"
 featured = "model-3-interior.jpg"
 featuredalt = "Das Interior des Model 3 mit dem großen, zentralen TFT-Display"
-featuredpath = "date"
 categories = ["Vorfreude"]
 tags = ["Bestellprozess"]
 +++

@@ -6,7 +6,6 @@ description = "Raumschiff-Optik oder Alltagstauglichkeit?"
 author = "Marcel Kraus"
 featured = "innenraum-schwarz-oder-weiss.jpg"
 featuredalt = "Der Innenraum des Model 3 - in schwarz oder weiß?"
-featuredpath = "date"
 categories = ["Vorfreude"]
 tags = ["Konfiguration"]
 +++

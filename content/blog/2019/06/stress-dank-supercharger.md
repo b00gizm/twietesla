@@ -6,7 +6,6 @@ description = "Die Zeit vergeht im Flug…"
 author = "Marcel Kraus"
 featured = "tesla-logo-vom-supercharger.jpg"
 featuredalt = "Das Tesla-Logo auf einer Supercharger-Säule"
-featuredpath = "date"
 categories = ["Unterwegs"]
 tags = ["Ladepause"]
 +++

@@ -6,7 +6,6 @@ description = "Was der Tesla-Support über das Fahrzeug verrät…"
 author = "Marcel Kraus"
 featured = "model3-strasse-mit-schnee.jpg"
 featuredalt = "Weißes Model 3 auf einer Landstraße mit Schnee"
-featuredpath = "date"
 categories = ["Vorfreude"]
 tags = ["Konfiguration"]
 +++

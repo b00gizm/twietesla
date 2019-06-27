@@ -6,7 +6,6 @@ description = "Bitte nur unter Aufsicht laden…"
 author = "Marcel Kraus"
 featured = "hochspannung-schild.jpg"
 featuredalt = "Gefahrenschild an einem Verteilerkasten"
-featuredpath = "date"
 categories = ["Unterwegs"]
 tags = ["Ladepause"]
 +++

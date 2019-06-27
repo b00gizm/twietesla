@@ -6,7 +6,6 @@ description = "Was uns die Fahrgestellnummer alles verrät…"
 author = "Marcel Kraus"
 featured = "model3-auf-parkplatz.jpg"
 featuredalt = "Ein Tesla Model 3 auf einem Parkplatz"
-featuredpath = "date"
 categories = ["Vorfreude"]
 tags = ["Tipps"]
 +++

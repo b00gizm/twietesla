@@ -6,7 +6,6 @@ description = "Das Wochenende kann kommen…"
 author = "Marcel Kraus"
 featured = "model3-keycard-an-b-saeule.jpg"
 featuredalt = "Keycard des Tesla Model 3 an der B-Säule"
-featuredpath = "date"
 categories = ["Vorfreude"]
 tags = ["Bestellprozess"]
 +++

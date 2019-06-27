@@ -6,7 +6,6 @@ description = "Das verlängerte Wochenende kann kommen…"
 author = "Marcel Kraus"
 featured = "tesla-t-auf-frunkdeckel.jpg"
 featuredalt = "Das Tesla-T auf meinem weißen Tesla Model 3"
-featuredpath = "date"
 categories = ["Vorfreude"]
 tags = ["Bestellprozess"]
 +++

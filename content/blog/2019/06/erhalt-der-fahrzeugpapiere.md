@@ -6,7 +6,6 @@ description = "Willkommen in der Tesla-Familie!"
 author = "Marcel Kraus"
 featured = "fahrzeugpapiere-tesla-familie.jpg"
 featuredalt = "Die Fahrzeugpapiere des Tesla Model 3"
-featuredpath = "date"
 categories = ["Vorfreude"]
 tags = ["Bestellprozess"]
 +++

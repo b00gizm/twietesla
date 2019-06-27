@@ -6,7 +6,6 @@ description = "Ihre Bestellung ist bestätigt…"
 author = "Marcel Kraus"
 featured = "model3-konfiguration.jpg"
 featuredalt = "Mein Tesla Model 3 laut Konfiguration: Perl-Weiß mit Aero-Felgen"
-featuredpath = "date"
 categories = ["Vorfreude"]
 tags = ["Bestellprozess", "Konfiguration"]
 +++

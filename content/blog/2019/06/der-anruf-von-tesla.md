@@ -6,7 +6,6 @@ description = "Wir bitten um Überprüfung Ihrer Bestellung…"
 author = "Marcel Kraus"
 featured = "model-s-auf-strasse.jpg"
 featuredalt = "Ein Tesla Model S auf einer Straße in Kanada"
-featuredpath = "date"
 categories = ["Vorfreude"]
 tags = ["Bestellprozess"]
 +++

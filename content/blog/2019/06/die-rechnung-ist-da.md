@@ -6,7 +6,6 @@ description = "Es wird ernst…"
 author = "Marcel Kraus"
 featured = "tesla-logo-in-einem-model-s.jpg"
 featuredalt = "Ein Tesla Model S auf einer Straße in Kanada"
-featuredpath = "date"
 categories = ["Vorfreude"]
 tags = ["Bestellprozess"]
 +++

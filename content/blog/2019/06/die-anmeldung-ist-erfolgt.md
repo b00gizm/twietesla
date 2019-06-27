@@ -6,7 +6,6 @@ description = "Grünes Licht für die Abholung am Freitag…"
 author = "Marcel Kraus"
 featured = "ampelanlage-gruenes-licht.jpg"
 featuredalt = "Grünes Licht auf einer Ampelanlage vor dem Himmel"
-featuredpath = "date"
 categories = ["Vorfreude"]
 tags = ["Zulassung"]
 +++
