@@ -1,7 +1,7 @@
 +++
 type = "post"
 date = "2019-06-18 12:00:00"
-title = "Anmeldung erfolgt"
+title = "Die Anmeldung ist erfolgt"
 description = "Grünes Licht für die Abholung am Freitag…"
 author = "Marcel Kraus"
 featured = "ampelanlage-gruenes-licht.jpg"

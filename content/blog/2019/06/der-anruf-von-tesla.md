@@ -1,7 +1,7 @@
 +++
 type = "post"
 date = "2019-06-11 12:00:00"
-title = "Der Anruf"
+title = "Der Anruf von Tesla"
 description = "Wir bitten um Überprüfung Ihrer Bestellung…"
 author = "Marcel Kraus"
 featured = "model-s-auf-strasse.jpg"

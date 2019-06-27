@@ -1,7 +1,7 @@
 +++
 type = "post"
 date = "2019-06-17 12:00:00"
-title = "Die Fahrzeugpapiere"
+title = "Erhalt der Fahrzeugpapiere"
 description = "Willkommen in der Tesla-Familie!"
 author = "Marcel Kraus"
 featured = "fahrzeugpapiere-tesla-familie.jpg"

@@ -1,7 +1,7 @@
 +++
 type = "post"
 date = "2019-06-06 18:00:00"
-title = "Geburtsnachweis"
+title = "Der Geburtsnachweis"
 description = "Was der Tesla-Support über das Fahrzeug verrät…"
 author = "Marcel Kraus"
 featured = "model3-strasse-mit-schnee.jpg"

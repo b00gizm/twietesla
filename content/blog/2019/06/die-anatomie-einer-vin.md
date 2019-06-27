@@ -1,7 +1,7 @@
 +++
 type = "post"
 date = "2019-06-06 12:00:00"
-title = "Anatomie einer VIN"
+title = "Die Anatomie einer VIN"
 description = "Was uns die Fahrgestellnummer alles verrät…"
 author = "Marcel Kraus"
 featured = "model3-auf-parkplatz.jpg"

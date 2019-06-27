@@ -1,7 +1,7 @@
 +++
 type = "post"
 date = "2019-06-13 12:00:00"
-title = "Die Rechnung"
+title = "Die Rechnung ist da"
 description = "Es wird ernst…"
 author = "Marcel Kraus"
 featured = "tesla-logo-in-einem-model-s.jpg"
