@@ -1,19 +1,19 @@
 +++
 type = "post"
-date = "2019-06-21 12:00:00"
+date = "2019-06-23 12:00:00"
 title = "Stress dank Supercharger"
 description = "Die Zeit vergeht im Flug…"
 author = "Marcel Kraus"
-featured = "t-wie-tesla-im-model-3.jpg"
-featuredalt = "Dieser Blog, “T wie Tesla”, im Browser des Model 3"
+featured = "tesla-logo-vom-supercharger.jpg"
+featuredalt = "Das Tesla-Logo auf einer Supercharger-Säule"
 featuredpath = "date"
-categories = ["Erlebnisse"]
+categories = ["Unterwegs"]
 tags = ["Ladepause"]
 +++
 
 Das Tesla Model 3 ist da, nun beginnt die lang ersehnte Zeit am Supercharger, was ich natürlich unmittelbar nach der Abholung getestet habe.
 
-Wie in [meiner Vorstellung](/ueber-mich) schon geschrieben, wohne ich in der Nähe des Superchargers in Erftstadt, ich fahre täglich daran vorbei. Und da ich dank Referal-Program über 7.500 km kostenloses Supercharging verfüge, werde ich die ersten Monate dort laden.
+Wie in [meiner Vorstellung](/ueber-mich) schon geschrieben, wohne ich in der Nähe des Superchargers in Erftstadt, ich fahre täglich daran vorbei. Da ich dank Referal-Program über 7.500 km kostenloses Supercharging verfüge ([und Schuko auch nicht immer klappt](/blog/2019/06/schuko-unter-strom)) werde ich die ersten Monate dort laden.
 
 TL;DR: Das Model 3 lädt schnell, fast schon *zu* schnell. ;)
 
