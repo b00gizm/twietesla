@@ -6,8 +6,7 @@ description = "Es wird ernst…"
 author = "Marcel Kraus"
 featured = "tesla-logo-in-einem-model-s.jpg"
 featuredalt = "Ein Tesla Model S auf einer Straße in Kanada"
-categories = ["Vorfreude"]
-tags = ["Bestellprozess"]
+categories = ["Bestellung & Vorfreude"]
 +++
 
 Ganz unspektakulär: Ca. 24 h nach dem Anruf von Christina war die Rechnung im Account hinterlegt.

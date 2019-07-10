@@ -6,8 +6,7 @@ description = "Das verlängerte Wochenende kann kommen…"
 author = "Marcel Kraus"
 featured = "tesla-t-auf-frunkdeckel.jpg"
 featuredalt = "Das Tesla-T auf meinem weißen Tesla Model 3"
-categories = ["Vorfreude"]
-tags = ["Bestellprozess"]
+categories = ["Bestellung & Vorfreude"]
 +++
 
 Ganze zwei Tage früher als erwartet, vor einem Feier- und einem Brückentag bei bestem Wetter: Gestern war die Abholung von meinem Tesla Model 3, der Tag, auf den ich mehrere Jahre gewartet habe.

@@ -6,8 +6,7 @@ description = "Wir bitten um Überprüfung Ihrer Bestellung…"
 author = "Marcel Kraus"
 featured = "model-s-auf-strasse.jpg"
 featuredalt = "Ein Tesla Model S auf einer Straße in Kanada"
-categories = ["Vorfreude"]
-tags = ["Bestellprozess"]
+categories = ["Bestellung & Vorfreude"]
 +++
 
 Am 11. Juni 2019 klingelte gegen 17:00 Uhr das Telefon - Tesla aus München war dran.

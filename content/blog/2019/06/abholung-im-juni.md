@@ -6,8 +6,7 @@ description = "Das Wochenende kann kommen…"
 author = "Marcel Kraus"
 featured = "model3-keycard-an-b-saeule.jpg"
 featuredalt = "Keycard des Tesla Model 3 an der B-Säule"
-categories = ["Vorfreude"]
-tags = ["Bestellprozess"]
+categories = ["Bestellung & Vorfreude"]
 +++
 
 Soeben habe ich die SMS von Tesla erhalten, die ich so sehnsüchtig erwartet habe: Mir wurde ein Abholtermin genannt.

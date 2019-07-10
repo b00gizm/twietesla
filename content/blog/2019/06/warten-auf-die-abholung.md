@@ -6,8 +6,7 @@ description = "Vorfreude ist angeblich die schönste Freude…"
 author = "Marcel Kraus"
 featured = "model-3-interior.jpg"
 featuredalt = "Das Interior des Model 3 mit dem großen, zentralen TFT-Display"
-categories = ["Vorfreude"]
-tags = ["Bestellprozess"]
+categories = ["Bestellung & Vorfreude"]
 +++
 
 Die Abschlussrechnung ist bezahlt, die Versicherung ausgesucht, das Altfahrzeug verkauft. Nun gibt es für mich nichts mehr zu tun, ausser zu warten.

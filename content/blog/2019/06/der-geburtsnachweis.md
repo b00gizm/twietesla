@@ -6,8 +6,7 @@ description = "Was der Tesla-Support über das Fahrzeug verrät…"
 author = "Marcel Kraus"
 featured = "model3-strasse-mit-schnee.jpg"
 featuredalt = "Weißes Model 3 auf einer Landstraße mit Schnee"
-categories = ["Vorfreude"]
-tags = ["Konfiguration"]
+categories = ["Bestellung & Vorfreude"]
 +++
 
 Ein abendlicher Chat mit dem Tesla-Support bringt interessante Dinge zu Tage. So nehme ich heute zwei Erkenntnisse gut gelaunt mit ins Bettchen!

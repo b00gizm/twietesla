@@ -6,8 +6,7 @@ description = "Grünes Licht für die Abholung am Freitag…"
 author = "Marcel Kraus"
 featured = "ampelanlage-gruenes-licht.jpg"
 featuredalt = "Grünes Licht auf einer Ampelanlage vor dem Himmel"
-categories = ["Vorfreude"]
-tags = ["Zulassung"]
+categories = ["Bestellung & Vorfreude"]
 +++
 
 Es hat alles geklappt, mein Model 3 ist angemeldet: Am 18. Juni 2019.

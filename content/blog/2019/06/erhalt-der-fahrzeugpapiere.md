@@ -6,8 +6,7 @@ description = "Willkommen in der Tesla-Familie!"
 author = "Marcel Kraus"
 featured = "fahrzeugpapiere-tesla-familie.jpg"
 featuredalt = "Die Fahrzeugpapiere des Tesla Model 3"
-categories = ["Vorfreude"]
-tags = ["Bestellprozess"]
+categories = ["Bestellung & Vorfreude"]
 +++
 
 UPS war da, die Papiere liegen endlich vor. Nun kann das Model 3 angemeldet werden.

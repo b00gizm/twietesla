@@ -6,8 +6,7 @@ description = "Bitte nur unter Aufsicht laden…"
 author = "Marcel Kraus"
 featured = "hochspannung-schild.jpg"
 featuredalt = "Gefahrenschild an einem Verteilerkasten"
-categories = ["Unterwegs"]
-tags = ["Ladepause"]
+categories = ["Unterwegs im Tesla"]
 +++
 
 Am gestrigen Feiertag, dem ersten Tag mit meinem Model 3, war ich natürlich zusammen mit Manuela unterwegs. Und habe fast das Haus vom Schwiegervater abgefackelt… ;)

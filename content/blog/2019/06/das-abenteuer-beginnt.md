@@ -6,8 +6,7 @@ description = "Ihre Bestellung ist bestätigt…"
 author = "Marcel Kraus"
 featured = "model3-konfiguration.jpg"
 featuredalt = "Mein Tesla Model 3 laut Konfiguration: Perl-Weiß mit Aero-Felgen"
-categories = ["Vorfreude"]
-tags = ["Bestellprozess", "Konfiguration"]
+categories = ["Bestellung & Vorfreude"]
 +++
 
 Ich habe es getan: Nach 37 Gebrauchtwagen habe ich vor genau einer Woche, am 27. Mai 2019, den ersten Neuwagen meines Lebens bestellt…

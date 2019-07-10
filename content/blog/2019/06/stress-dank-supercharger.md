@@ -6,8 +6,7 @@ description = "Die Zeit vergeht im Flug…"
 author = "Marcel Kraus"
 featured = "tesla-logo-vom-supercharger.jpg"
 featuredalt = "Das Tesla-Logo auf einer Supercharger-Säule"
-categories = ["Unterwegs"]
-tags = ["Ladepause"]
+categories = ["Unterwegs im Tesla"]
 +++
 
 Das Tesla Model 3 ist da, nun beginnt die lang ersehnte Zeit am Supercharger, was ich natürlich unmittelbar nach der Abholung getestet habe.

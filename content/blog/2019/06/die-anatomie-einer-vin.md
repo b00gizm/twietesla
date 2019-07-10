@@ -6,8 +6,7 @@ description = "Was uns die Fahrgestellnummer alles verrät…"
 author = "Marcel Kraus"
 featured = "model3-auf-parkplatz.jpg"
 featuredalt = "Ein Tesla Model 3 auf einem Parkplatz"
-categories = ["Vorfreude"]
-tags = ["Tipps"]
+categories = ["Know-How"]
 +++
 
 Neben der SMS mit dem Liefertermin habe ich gestern im Quelltext der Tesla-Homepage auch meine Fahrgestellnummer gefunden - manchmal hat es Vorteile, IT-Erfahrung zu haben.
