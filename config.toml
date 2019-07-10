@@ -9,7 +9,7 @@ disableLanguages = [""]
 googleAnalytics = "UA-12561257-15"
 
 [params]
-    cssFiles = ["default"]
+    cssFiles = ["default", "css/custom.css"]
     jsFiles = ["default"]
     viewMorePostsLink = "/blog/"
     readingTime = true
@@ -67,5 +67,6 @@ googleAnalytics = "UA-12561257-15"
         url = "/impressum/"
         identifier = "far fa-list"
         weight = 99
+
 [social]
     github = "marcelkraus/t-wie-tesla"
