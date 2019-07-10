@@ -58,15 +58,23 @@ googleAnalytics = "UA-12561257-15"
         identifier = "far fa-newspaper"
         weight = 2
     [[menu.main]]
+        name = "Kategorien"
+        url = "/kategorien/"
+        identifier = "fas fa-sitemap"
+        weight = 3
+    [[menu.main]]
         name = "Über mich"
         url = "/ueber-mich/"
         identifier = "far fa-id-card"
-        weight = 3
+        weight = 4
     [[menu.main]]
         name = "Impressum"
         url = "/impressum/"
         identifier = "far fa-list"
-        weight = 99
+        weight = 5
+
+[permalinks]
+    categories = "/kategorien/:slug/"
 
 [social]
     github = "marcelkraus/t-wie-tesla"
