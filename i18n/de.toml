@@ -46,3 +46,7 @@
   other = "Nächste Seite"
 [previous_page]
   other = "Vorherige Seite"
+[no_tags]
+  other = "Keine Tags"
+[no_categories]
+  other = "Keine Kategorien"
