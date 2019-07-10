@@ -1,7 +1,7 @@
 +++
 type = "post"
 date = "2019-06-23 12:00:00"
-title = "Stress dank Supercharger"
+title = "Im Stress dank Supercharger"
 description = "Die Zeit vergeht im Flug…"
 author = "Marcel Kraus"
 featured = "tesla-logo-vom-supercharger.jpg"
