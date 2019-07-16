@@ -1,4 +1,5 @@
-+++
-url = "/kategorien/"
-aliases = ["/categories/"]
-+++
+---
+url: /kategorien/
+aliases: 
+    - /categories/
+---
