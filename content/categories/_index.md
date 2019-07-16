@@ -1,3 +1,4 @@
 +++
 url = "/kategorien/"
+aliases = ["/categories/"]
 +++
