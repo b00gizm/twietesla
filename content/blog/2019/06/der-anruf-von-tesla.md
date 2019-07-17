@@ -21,4 +21,4 @@ Meine offenen Fragen beschränkten sich auf die VIN - und diese wurde mir mitget
 
 Danke an Christina von Tesla für das freundliche Gespräch! Nun geht es weiter mit dem Warten, diesmal auf die Abschlussrechnung.
 
-*(Titelbild: [Jp Valery](https://unsplash.com/@jpvalery?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/search/photos/tesla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+{{< copy-unsplash "Jp Valery" "@jpvalery" >}}

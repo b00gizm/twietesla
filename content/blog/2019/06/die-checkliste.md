@@ -67,4 +67,4 @@ Nachfolgend möchte ich daher die Checkliste niederschreiben, die Manuela und ic
 
 Wenn man diese Checkliste durchgearbeitet hat, sollten die wichtigsten Punkte erschlagen sein. Generell ist insbesondere die Karosserie und die Lackierung zu prüfen; eine nicht-funktionierende Sitzverstellung lässt sich z.B. auch später noch über die Garantie nachmelden. Bei Lackmängeln ist entscheidend, ob der Schaden ggf. selber verursacht werden konnte.
 
-*(Titelbild: [Glenn Carstens-Peters](https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/search/photos/tesla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+{{< copy-unsplash "Glenn Carstens-Peters" "@glenncarstenspeters" >}}

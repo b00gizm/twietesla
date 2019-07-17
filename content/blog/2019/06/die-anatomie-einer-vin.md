@@ -41,4 +41,4 @@ Aktuell gehe ich davon aus, dass mein Fahrzeug in einem Zeitraum zwischen dem 22
 
 Bei dieser Aussage handelt es sich um Mutmaßung und Interpretation meinerseits. Ich werde aber versuchen, Gewissheit in dieser Fragestellung durch Rücksprache mit Tesla zu erhalten; mich interessiert die Geschichte meines Fahrzeugs eben. ;)
 
-*(Titelbild: [Tesla, Inc.](https://www.tesla.com))*
+{{< copy-tesla >}}

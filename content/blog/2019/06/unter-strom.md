@@ -19,4 +19,4 @@ Standardmäßig zieht das Model 3 16 A aus der Steckdose. Das *kann* gutgehen, m
 
 Die Ladezeit ist übrigens wirklich schlimm: Mehr als 10 km werden pro Stunde nicht geladen. Das stört mich aber relativ wenig, da ich die nächsten Monate erstmal am Supercharger verbringen werde und meine Wallbox bereits zu Hause auf die Installation wartet. Gestern ging es erstmal nur darum, zu testen - und das hat (zumindest rein technisch betrachtet) geklappt. ;)
 
-*(Titelbild: [Waldemar Brandt](https://unsplash.com/@waldemarbrandt67w?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/search/photos/tesla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+{{< copy-unsplash "Waldemar Brandt" "@waldemarbrandt67w" >}}

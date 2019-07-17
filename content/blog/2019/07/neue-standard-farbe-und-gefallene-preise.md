@@ -31,4 +31,4 @@ Ich rege mich nicht drüber auf. Ich gebe mir den heutigen Tag, mich (etwas) dar
 
 <sup>*</sup> Mich würde es nicht wundern, wenn perl-weiß nur vorrübergehend Standard-Farbe bleibt. [Elon Musk hat klar angekündigt](https://twitter.com/elonmusk/status/1141409584457768960 "Elon Musk hat auf Twitter angekündigt, dass ein einfaches weiß das schwarz als Standard-Farbe ablösen soll…"), dass ein einfaches Weiß die neue Standard-Farbe werden soll.
 
-*(Titelbild: [Sharon McCutcheon](https://unsplash.com/@sharonmccutcheon?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/search/photos/tesla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+{{< copy-unsplash "Sharon McCutcheon" "@sharonmccutcheon" >}}

@@ -23,6 +23,6 @@ Nachdem Yan-Yi und ich uns ca. eine halbe Stunde angeregt und freundlich unterha
 
 Danke für diese tolle Begegnung!
 
-*(Titelbild: [Jan Antonin Kolar](https://unsplash.com/@jankolar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/search/photos/tesla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+{{< copy-unsplash "Jan Antonin Kolar" "@jankolar" >}}
 
 {{< suc >}}

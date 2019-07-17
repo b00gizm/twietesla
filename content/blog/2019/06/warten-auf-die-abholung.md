@@ -15,4 +15,4 @@ Die Fahrzeugpapiere befinden sich per UPS auf dem Weg zu mir, die Anmeldung ist 
 
 Es wird alles recht eng, aber noch bin ich guter Dinge…
 
-*(Titelbild: [Bram Van Oost](https://unsplash.com/@ort?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/search/photos/tesla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+{{< copy-unsplash "Bram Van Oost" "@ort" >}}

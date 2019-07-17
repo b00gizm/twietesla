@@ -15,4 +15,4 @@ Die SMS kam gestern um 17:45 Uhr, die Abschlussrechnung für das Model 3 sei im 
 
 Ein kleiner Fehler hat sich dennoch eingeschlichen: Name und Straße stehen ohne Leerzeichen in einer Zeile. Mir persönlich ist das relativ egal, aber wer weiß, ob aus sowas später ein Problem beim Antrag des Umweltbonus resultiert…
 
-*(Titelbild: [Afif Kusuma](https://unsplash.com/@findracadabra?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/search/photos/tesla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+{{< copy-unsplash "Afif Kusuma" "@findracadabra" >}}
