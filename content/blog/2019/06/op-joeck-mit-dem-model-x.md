@@ -6,8 +6,7 @@ description = "Mit freundlichen Grüßen aus München…"
 author = "Marcel Kraus"
 featured = "haeuser-in-muenchen.jpg"
 featuredalt = "Blick über eine Reihe von Häusern in München"
-categories = ["Unterwegs im Tesla"]
-tags = ["Neulich am Supercharger"]
+categories = ["Neulich am Supercharger"]
 +++
 
 Was macht man als Fahrerin eines Model X aus München, wenn man beruflich in der ganzen Bundesrepublik unterwegs ist, aber nicht immer ins Hotel möchte?
@@ -24,6 +23,6 @@ Nachdem Yan-Yi und ich uns ca. eine halbe Stunde angeregt und freundlich unterha
 
 Danke für diese tolle Begegnung!
 
-> *“Neulich am Supercharger” ist eine lose Serie auf T-wie-Tesla.de, auf der ich über Zusammenkünfte am Supercharger spreche. Alle Namen wurden von mir geändert. Sollte sich eine Person wiedererkennen und mit dem Inhalt des Beitrags nicht einverstanden sein, bitte ich um eine kurze Information per E-Mail.*
+> *“Neulich am Supercharger” ist eine Artikelserie auf T-wie-Tesla.de, in der ich über interessante Zusammenkünfte am Supercharger spreche. Alle Namen wurden von mir geändert. Sollte sich eine Person wiedererkennen und mit dem Inhalt des Beitrags nicht einverstanden sein, bitte ich um eine kurze Information per E-Mail.*
 
 *(Titelbild: [Jan Antonin Kolar](https://unsplash.com/@jankolar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/search/photos/tesla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
