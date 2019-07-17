@@ -23,6 +23,6 @@ Nachdem Yan-Yi und ich uns ca. eine halbe Stunde angeregt und freundlich unterha
 
 Danke für diese tolle Begegnung!
 
-> *“Neulich am Supercharger” ist eine Artikelserie auf T-wie-Tesla.de, in der ich über interessante Zusammenkünfte am Supercharger spreche. Alle Namen wurden von mir geändert. Sollte sich eine Person wiedererkennen und mit dem Inhalt des Beitrags nicht einverstanden sein, bitte ich um eine kurze Information per E-Mail.*
-
 *(Titelbild: [Jan Antonin Kolar](https://unsplash.com/@jankolar?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText), [Unsplash](https://unsplash.com/search/photos/tesla?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText))*
+
+{{< suc >}}
