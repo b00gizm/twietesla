@@ -3,7 +3,6 @@ type = "post"
 date = "2019-06-20 12:00:00"
 title = "Der Tag der Abholung"
 description = "Ganze zwei Tage früher als erwartet durfte ich endlich mein neues Tesla Model 3 in Neuss abholen."
-author = "Marcel Kraus"
 featured = "tesla-t-auf-frunkdeckel.jpg"
 featuredalt = "Das Tesla-T auf meinem weißen Tesla Model 3"
 categories = ["Bestellung & Vorfreude"]

@@ -3,7 +3,6 @@ type = "post"
 date = "2019-07-05 12:00:00"
 title = "Die Unregelmäßigkeiten an meinem Model 3"
 description = "Mein Model 3 war bei Abholung nicht in perfektem Zustand. Doch wie melde ich Schäden nach der Abholung nach?"
-author = "Marcel Kraus"
 featured = "steinschlag-stossstange.jpg"
 featuredalt = "Werksmäßiger Steinschlag in der Stoßstange meines Tesla Model 3"
 categories = ["Bestellung & Vorfreude"]

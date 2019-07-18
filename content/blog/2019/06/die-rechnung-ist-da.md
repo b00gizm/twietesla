@@ -3,7 +3,6 @@ type = "post"
 date = "2019-06-13 12:00:00"
 title = "Die Rechnung ist da"
 description = "Ca. 24 h nach dem Anruf von Tesla wurde die Rechnung im Account hinterlegt."
-author = "Marcel Kraus"
 featured = "tesla-logo-in-einem-model-s.jpg"
 featuredalt = "Ein Tesla Model S auf einer Straße in Kanada"
 categories = ["Bestellung & Vorfreude"]

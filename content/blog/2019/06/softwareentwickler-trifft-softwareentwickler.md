@@ -3,7 +3,6 @@ type = "post"
 date = "2019-06-30 12:00:00"
 title = "Softwareentwickler trifft Softwareentwickler"
 description = "Die Chance, beim Laden eines Tesla an einem Supercharger einen Kollegen aus der IT-Branche zu treffen, ist groß."
-author = "Marcel Kraus"
 featured = "softwareentwicklung.jpg"
 featuredalt = "Person bei der Softwareentwicklung auf einem PC"
 categories = ["Neulich am Supercharger"]

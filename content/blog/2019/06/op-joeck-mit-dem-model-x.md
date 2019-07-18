@@ -3,7 +3,6 @@ type = "post"
 date = "2019-06-24 12:00:00"
 title = "Op Jöck mit dem Model X"
 description = "Das das Model X groß genug ist, um notfalls als Hotelersatz zu dienen, habe ich bei dieser Begegnung am Supercharger gelernt."
-author = "Marcel Kraus"
 featured = "haeuser-in-muenchen.jpg"
 featuredalt = "Blick über eine Reihe von Häusern in München"
 categories = ["Neulich am Supercharger"]

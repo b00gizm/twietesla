@@ -3,7 +3,6 @@ type = "post"
 date = "2019-06-23 12:00:00"
 title = "Im Stress dank dem Supercharger"
 description = "Die lang ersehnte Zeit am Supercharger beginnt, das Model 3 ist da. Und es geht schneller, als gedacht."
-author = "Marcel Kraus"
 featured = "tesla-logo-vom-supercharger.jpg"
 featuredalt = "Das Tesla-Logo auf einer Supercharger-Säule"
 categories = ["Unterwegs im Tesla"]

@@ -3,7 +3,6 @@ type = "post"
 date = "2019-06-04 12:00:00"
 title = "Eine Frage der Farbe"
 description = "Selten ist mir eine Entscheidung schwerer gefallen: Schwarzer oder weißer Innenraum bei meinem Model 3?"
-author = "Marcel Kraus"
 featured = "innenraum-schwarz-oder-weiss.jpg"
 featuredalt = "Der Innenraum des Model 3 - in schwarz oder weiß?"
 categories = ["Bestellung & Vorfreude"]
