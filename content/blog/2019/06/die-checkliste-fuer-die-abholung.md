@@ -3,7 +3,7 @@ type = "post"
 date = "2019-06-25 12:00:00"
 title = "Die Checkliste für die Abholung"
 description = "Wenn man fast 60.000 € für ein Fahrzeug ausgibt, sollte man genau hinsehen, ob Tesla gut gearbeitet hat."
-featured = "eintraege-im-notizbuch.jpg"
+featured = "/images/2019/06/eintraege-im-notizbuch.jpg"
 featuredalt = "Anlage einer Checkliste in einem Notizbuch"
 categories = ["Know-How"]
 +++

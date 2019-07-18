@@ -3,7 +3,7 @@ type = "post"
 date = "2019-06-18 12:00:00"
 title = "Die Anmeldung ist erfolgt"
 description = "Am 18. Juni 2019 konnte ich mein Model 3 erfolgreich anmelden, nach einer Wartezeit von ca. 2 h im Straßenverkehrsamt."
-featured = "ampelanlage-gruenes-licht.jpg"
+featured = "/images/2019/06/ampelanlage-gruenes-licht.jpg"
 featuredalt = "Grünes Licht auf einer Ampelanlage vor dem Himmel"
 categories = ["Bestellung & Vorfreude"]
 +++

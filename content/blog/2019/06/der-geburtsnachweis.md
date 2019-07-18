@@ -3,7 +3,7 @@ type = "post"
 date = "2019-06-06 18:00:00"
 title = "Der Geburtsnachweis"
 description = "Kann der Tesla-Support beantworten, wann mein Model 3 gebaut wurde und ob es über die aktuelle HW3 (FSD-Computer) verfügt?"
-featured = "model3-strasse-mit-schnee.jpg"
+featured = "/images/2019/06/model3-strasse-mit-schnee.jpg"
 featuredalt = "Weißes Model 3 auf einer Landstraße mit Schnee"
 categories = ["Bestellung & Vorfreude"]
 +++

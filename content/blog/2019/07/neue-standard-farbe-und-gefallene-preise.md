@@ -3,7 +3,7 @@ type = "post"
 date = "2019-07-16 12:00:00"
 title = "Neue Standard-Farbe und gefallene Preise"
 description = "Über Nacht hat mein Model 3 einen Wertverlust von 5.010 € erlitten. Bereue ich nun meine Bestellung im Mai?"
-featured = "haufen-geld.jpg"
+featured = "/images/2019/07/haufen-geld.jpg"
 featuredalt = "Ein Haufen Ein-Dollar-Noten auf einem Tisch"
 categories = ["Bestellung & Vorfreude"]
 +++

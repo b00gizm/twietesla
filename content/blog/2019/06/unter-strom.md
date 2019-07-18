@@ -3,7 +3,7 @@ type = "post"
 date = "2019-06-21 12:00:00"
 title = "Unter Strom"
 description = "Am ersten Tag mit meinem Model 3 war ich natürlich zusammen mit Manuela unterwegs. Und habe fast das Haus vom Schwiegervater abgefackelt… ;)"
-featured = "hochspannung-schild.jpg"
+featured = "/images/2019/06/hochspannung-schild.jpg"
 featuredalt = "Gefahrenschild an einem Verteilerkasten"
 categories = ["Unterwegs im Tesla"]
 +++
