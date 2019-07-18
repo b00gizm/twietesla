@@ -1,15 +1,13 @@
 +++
 type = "post"
 date = "2019-06-25 12:00:00"
-title = "Die Checkliste"
-description = "Damit ja alles seine Richtigkeit hat…"
+title = "Die Checkliste für die Abholung"
+description = "Wenn man fast 60.000 € für ein Fahrzeug ausgibt, sollte man genau hinsehen, ob Tesla gut gearbeitet hat."
 author = "Marcel Kraus"
 featured = "eintraege-im-notizbuch.jpg"
 featuredalt = "Anlage einer Checkliste in einem Notizbuch"
 categories = ["Know-How"]
 +++
-
-Der typische Deutsche tendiert ja dazu, sehr genau hinzusehen. Und natürlich, wenn man fast 60.000 € für ein Fahrzeug ausgibt, *sollte* man genau hinsehen.
 
 Im Internet existieren viele Checklisten für die Abholung eines Tesla Model 3. Viele davon sind mehrere hundert Punkte lang – doch ich wollte die Kirche im Dorf lassen.
 

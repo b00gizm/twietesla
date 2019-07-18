@@ -2,14 +2,14 @@
 type = "post"
 date = "2019-06-11 12:00:00"
 title = "Der Anruf von Tesla"
-description = "Wir bitten um Überprüfung Ihrer Bestellung…"
+description = "Am 11. Juni 2019 klingelte gegen 17:00 Uhr das Telefon - Tesla aus München am Apparat, es geht um die Bestellung Ihres Model 3."
 author = "Marcel Kraus"
 featured = "model-s-auf-strasse.jpg"
 featuredalt = "Ein Tesla Model S auf einer Straße in Kanada"
 categories = ["Bestellung & Vorfreude"]
 +++
 
-Am 11. Juni 2019 klingelte gegen 17:00 Uhr das Telefon - Tesla aus München war dran.
+
 
 Bereits vor Pfingsten hatte ich eine unbekannte Nummer aus der Landeshauptstadt Bayerns auf dem iPhone-Display bemerkt. Ich hatte es jedoch nicht eilig mit dem Rückruf, da ich über Pfingsten in den Urlaub fahren wollte.
 

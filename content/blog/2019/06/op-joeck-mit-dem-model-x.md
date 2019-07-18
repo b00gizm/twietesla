@@ -2,14 +2,12 @@
 type = "post"
 date = "2019-06-24 12:00:00"
 title = "Op Jöck mit dem Model X"
-description = "Mit freundlichen Grüßen aus München…"
+description = "Das das Model X groß genug ist, um notfalls als Hotelersatz zu dienen, habe ich bei dieser Begegnung am Supercharger gelernt."
 author = "Marcel Kraus"
 featured = "haeuser-in-muenchen.jpg"
 featuredalt = "Blick über eine Reihe von Häusern in München"
 categories = ["Neulich am Supercharger"]
 +++
-
-Was macht man als Fahrerin eines Model X aus München, wenn man beruflich in der ganzen Bundesrepublik unterwegs ist, aber nicht immer ins Hotel möchte?
 
 Mein abendlicher Ladevorgang führte mich nach Anstöpseln zum “Restaurant mit dem goldenen M”, was ich aus Rücksicht auf meine Figur eigentlich vermeiden wollte – egal. Auf dem Rückweg zum Supercharger beobachtete ich ein rotes Model X aus München beim einparken.
 

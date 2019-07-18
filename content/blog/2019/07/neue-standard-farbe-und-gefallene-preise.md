@@ -2,14 +2,12 @@
 type = "post"
 date = "2019-07-16 12:00:00"
 title = "Neue Standard-Farbe und gefallene Preise"
-description = "Der Kauf bei einem Startup erfordert starke Nerven…"
+description = "Über Nacht hat mein Model 3 einen Wertverlust von 5.010 € erlitten. Bereue ich nun meine Bestellung im Mai?"
 author = "Marcel Kraus"
 featured = "haufen-geld.jpg"
 featuredalt = "Ein Haufen Ein-Dollar-Noten auf einem Tisch"
 categories = ["Bestellung & Vorfreude"]
 +++
-
-Über Nacht hat mein Model 3 einen Wertverlust von 5.000 € erlitten. Bereue ich nun meine Bestellung?
 
 In der Nacht zum heutigen Dienstag hat Tesla die Preise seiner Modelle angepasst. Neben [Preissenkungen beim Model X und Model Y](https://teslamag.de/news/tesla-preisaktualisierung-model-3-nur-zwei-varianten-model-s-x-24811 "Mehr dazu auf Teslamag.de…") wurden auch die Preise des Model 3 deutlich (!) nach unten korrigiert und perl-weiß (überraschend<sup>*</sup>) die neue Standard-Farbe (ohne Aufpreis).
 

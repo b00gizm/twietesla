@@ -2,7 +2,7 @@
 type = "post"
 date = "2019-06-06 12:00:00"
 title = "Die Anatomie einer VIN"
-description = "Was uns die Fahrgestellnummer alles verrät…"
+description = "Ich möchte gerne ausführlich darlegen, was uns eine Fahrgestellnummer (VIN) über das Tesla Model 3 verrät."
 author = "Marcel Kraus"
 featured = "model3-auf-parkplatz.jpg"
 featuredalt = "Ein Tesla Model 3 auf einem Parkplatz"

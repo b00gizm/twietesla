@@ -2,14 +2,12 @@
 type = "post"
 date = "2019-07-05 12:00:00"
 title = "Die Unregelmäßigkeiten an meinem Model 3"
-description = "Es ist nicht alles perl-weiß, was glänzt…"
+description = "Mein Model 3 war bei Abholung nicht in perfektem Zustand. Doch wie melde ich Schäden nach der Abholung nach?"
 author = "Marcel Kraus"
 featured = "steinschlag-stossstange.jpg"
 featuredalt = "Werksmäßiger Steinschlag in der Stoßstange meines Tesla Model 3"
 categories = ["Bestellung & Vorfreude"]
 +++
-
-Ich habe mein Model 3 nicht in perfektem Zustand übernommen. Doch wie melde ich Schäden nach der Abholung nach?
 
 Am 19. Juni habe ich mein Model 3 in Neuss abgeholt. Leider sind während der Abholung Kratzer in der Heckscheibe aufgefallen, die einen Austausch erfordern; der Schaden wurde aufgenommen.
 

@@ -2,14 +2,12 @@
 type = "post"
 date = "2019-06-13 12:00:00"
 title = "Die Rechnung ist da"
-description = "Es wird ernst…"
+description = "Ca. 24 h nach dem Anruf von Tesla wurde die Rechnung im Account hinterlegt."
 author = "Marcel Kraus"
 featured = "tesla-logo-in-einem-model-s.jpg"
 featuredalt = "Ein Tesla Model S auf einer Straße in Kanada"
 categories = ["Bestellung & Vorfreude"]
 +++
-
-Ganz unspektakulär: Ca. 24 h nach dem Anruf von Christina war die Rechnung im Account hinterlegt.
 
 Die SMS kam gestern um 17:45 Uhr, die Abschlussrechnung für das Model 3 sei im Account hinterlegt. Dies war auch der Fall, der Rechnungsbetrag stimmt auffällig und auch die Inzahlungnahme des Altfahrzeugs wurde berücksichtigt.
 

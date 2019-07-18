@@ -2,14 +2,12 @@
 type = "post"
 date = "2019-06-04 12:00:00"
 title = "Eine Frage der Farbe"
-description = "Raumschiff-Optik oder Alltagstauglichkeit?"
+description = "Selten ist mir eine Entscheidung schwerer gefallen: Schwarzer oder weißer Innenraum bei meinem Model 3?"
 author = "Marcel Kraus"
 featured = "innenraum-schwarz-oder-weiss.jpg"
 featuredalt = "Der Innenraum des Model 3 - in schwarz oder weiß?"
 categories = ["Bestellung & Vorfreude"]
 +++
-
-Selten ist mir eine Entscheidung schwerer gefallen - selbst nach einer Woche hatte ich noch Zweifel: Habe ich richtig entschieden?
 
 Das Tesla Model 3 lässt sich wahlweise mit einem weißen Innenraum konfigurieren. Die weißen Sitze, Türverkleidungen und die Akzent-Leiste des Armaturenbretts kosten einen Aufpreis von 1.050 €.
 

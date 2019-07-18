@@ -2,16 +2,14 @@
 type = "post"
 date = "2019-06-20 12:00:00"
 title = "Der Tag der Abholung"
-description = "Das verlängerte Wochenende kann kommen…"
+description = "Ganze zwei Tage früher als erwartet durfte ich endlich mein neues Tesla Model 3 in Neuss abholen."
 author = "Marcel Kraus"
 featured = "tesla-t-auf-frunkdeckel.jpg"
 featuredalt = "Das Tesla-T auf meinem weißen Tesla Model 3"
 categories = ["Bestellung & Vorfreude"]
 +++
 
-Ganze zwei Tage früher als erwartet, vor einem Feier- und einem Brückentag bei bestem Wetter: Gestern war die Abholung von meinem Tesla Model 3, der Tag, auf den ich mehrere Jahre gewartet habe.
-
-Denn gewartet habe ich auf das Auto länger als die vier Wochen nach meiner ursprünglichen Bestellung – auch wenn ich nie ein Model 3 vorreserviert habe, habe ich doch die Entwicklung jederzeit verfolgt und wollte immer eines dieser besonderen Fahrzeuge haben.
+Gewartet habe ich auf das Auto länger als die vier Wochen nach meiner ursprünglichen Bestellung – auch wenn ich nie ein Model 3 vorreserviert habe, habe ich doch die Entwicklung jederzeit verfolgt und wollte immer eines dieser besonderen Fahrzeuge haben.
 
 Nun schreibe ich diese Zeilen und das Model 3 steht vor meiner Türe in Erftstadt. Das Fahrzeug, das Grundlage für diesen Blog ist und um das sich in den letzten Wochen so viel gedreht hat: Ich kann es nach wie vor nicht glauben.
 

@@ -1,15 +1,14 @@
 +++
 type = "post"
 date = "2019-06-03 12:00:00"
-title = "Das Abenteuer beginnt"
-description = "Ihre Bestellung ist bestätigt…"
+title = "Das Abenteuer Tesla beginnt"
+description = "Nach 37 Gebrauchtwagen habe ich vor genau einer Woche, am 27. Mai 2019, den ersten Neuwagen meines Lebens bestellt: Ein Tesla Model 3."
 author = "Marcel Kraus"
 featured = "model3-konfiguration.jpg"
 featuredalt = "Mein Tesla Model 3 laut Konfiguration: Perl-Weiß mit Aero-Felgen"
 categories = ["Bestellung & Vorfreude"]
+aliases = ["/blog/2019/07/das-abenteuer-beginnt"]
 +++
-
-Ich habe es getan: Nach 37 Gebrauchtwagen habe ich vor genau einer Woche, am 27. Mai 2019, den ersten Neuwagen meines Lebens bestellt…
 
 Meine Aussage war stets, dass es verrückt ist, sich einen Neuwagen zu kaufen. Zu dieser Aussage stehe ich bis heute.
 

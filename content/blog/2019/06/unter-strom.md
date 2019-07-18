@@ -2,14 +2,12 @@
 type = "post"
 date = "2019-06-21 12:00:00"
 title = "Unter Strom"
-description = "Bitte nur unter Aufsicht laden…"
+description = "Am ersten Tag mit meinem Model 3 war ich natürlich zusammen mit Manuela unterwegs. Und habe fast das Haus vom Schwiegervater abgefackelt… ;)"
 author = "Marcel Kraus"
 featured = "hochspannung-schild.jpg"
 featuredalt = "Gefahrenschild an einem Verteilerkasten"
 categories = ["Unterwegs im Tesla"]
 +++
-
-Am gestrigen Feiertag, dem ersten Tag mit meinem Model 3, war ich natürlich zusammen mit Manuela unterwegs. Und habe fast das Haus vom Schwiegervater abgefackelt… ;)
 
 Das relativ gute Wetter in Köln galt es auszukosten. Und als wir so grillend im Garten saßen, fiel mein Blick auf die Verlängerung an der Schuko-Außensteckdose. Man könnte doch mal testen, das Model 3 an einer normalen Steckdose laden und den UMC (“Universal Mobile Connector”) zu testen.
 

@@ -2,14 +2,12 @@
 type = "post"
 date = "2019-07-18 10:00:00"
 title = "Die ersten vier Wochen mit dem Model 3"
-description = "Ja, es ist das beste Auto, dass ich je hatte…"
+description = "Am 19. Juni habe ich meinen Tesla in Neuss abgeholt. Nach vier Wochen nun ein erstes Fazit: War der Kauf des Model 3 eine gute Entscheidung?"
 author = "Marcel Kraus"
 featured = "model-3-im-kinoparkhaus.jpg"
 featuredalt = "Mein Tesla Model 3 im Parkhaus des Hürth-Park in Hürth"
 categories = ["Unterwegs im Tesla"]
 +++
-
-Gestern vor vier Wochen habe ich mein Model 3 in Neuss abgeholt. War der Kauf des Model 3 eine gute Entscheidung?
 
 Ja, [der gestrige Tag war hart](/blog/2019/07/neue-standard-farbe-und-gefallene-preise/ "Über Nacht hat Tesla die Preise angepasst; und mein Auto deutlich günstiger gemacht"). Wie im Artikel beschrieben, habe ich mich gestern darauf konzentriert, mich zu ärgern – über die 5.010 €, die mein Auto heute günstiger wäre als bei der Bestellung am 27. Mai.
 

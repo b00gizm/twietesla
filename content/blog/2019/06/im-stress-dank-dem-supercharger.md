@@ -1,15 +1,13 @@
 +++
 type = "post"
 date = "2019-06-23 12:00:00"
-title = "Im Stress dank Supercharger"
-description = "Die Zeit vergeht im Flug…"
+title = "Im Stress dank dem Supercharger"
+description = "Die lang ersehnte Zeit am Supercharger beginnt, das Model 3 ist da. Und es geht schneller, als gedacht."
 author = "Marcel Kraus"
 featured = "tesla-logo-vom-supercharger.jpg"
 featuredalt = "Das Tesla-Logo auf einer Supercharger-Säule"
 categories = ["Unterwegs im Tesla"]
 +++
-
-Das Tesla Model 3 ist da, nun beginnt die lang ersehnte Zeit am Supercharger, was ich natürlich unmittelbar nach der Abholung getestet habe.
 
 Wie in [meiner Vorstellung](/ueber-mich) schon geschrieben, wohne ich in der Nähe des Superchargers in Erftstadt, ich fahre täglich daran vorbei. Da ich dank Referal-Program über 7.500 km kostenloses Supercharging verfüge ([und Schuko auch nicht immer klappt](/blog/2019/06/schuko-unter-strom)) werde ich die ersten Monate dort laden.
 

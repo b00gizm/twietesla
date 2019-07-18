@@ -2,14 +2,12 @@
 type = "post"
 date = "2019-06-30 12:00:00"
 title = "Softwareentwickler trifft Softwareentwickler"
-description = "Internationale Begegnungen am Supercharger…"
+description = "Die Chance, beim Laden eines Tesla an einem Supercharger einen Kollegen aus der IT-Branche zu treffen, ist groß."
 author = "Marcel Kraus"
 featured = "softwareentwicklung.jpg"
 featuredalt = "Person bei der Softwareentwicklung auf einem PC"
 categories = ["Neulich am Supercharger"]
 +++
-
-Was ich in zehn Tagen mit meinem Fahrzeug gelernt habe? Die Chance, beim Laden eines Tesla einen Kollegen aus der IT-Branche zu treffen, ist nicht gerade klein.
 
 Gestern wurde ich einen Tag älter (🥳), und da lag es natürlich nahe, vor der Feier im Freundes- und Familienkreis nochmals den Supercharger aufzusuchen, um für eventuelle Probefahrten ge­wapp­net zu sein.<sup>*</sup>
 
