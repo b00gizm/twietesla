@@ -1,5 +1,5 @@
 {{ if .Params.featured }}
-<a href="{{ .RelPermalink }}" class="image featured">
-  <img src="/images{{ .Page.Date.Format "2006/01" | relURL }}/{{ .Params.featured }}" alt="{{ .Params.featuredalt }}">
-</a>
+  <a href="{{ .RelPermalink }}" class="image featured">
+    <img src="/images{{ .Page.Date.Format "2006/01" | relURL }}/{{ .Params.featured }}" alt="{{ .Params.featuredalt }}" title="Den Artikel “{{ .Title }}” lesen">
+  </a>
 {{ end }}
