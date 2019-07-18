@@ -16,11 +16,6 @@ googleAnalytics = "UA-12561257-15"
     [params.meta]
         description = "Auf seinem Blog “T wie Tesla” schreibt Tesla-Fahrer Marcel über seine Erlebnisse mit seinem Model 3."
         author = "Marcel Kraus, Erftstadt"
-        favicon = false
-        svg = true
-        faviconVersion = "1"
-        msColor = "#ffffff" # Copy from the https://realfavicongenerator.net
-        iOSColor = "#ffffff" # Copy from the https://realfavicongenerator.net
     [params.header]
         navbarTitle = "T wie Tesla"
         dynamicTitles = true
