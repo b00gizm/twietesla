@@ -3,7 +3,7 @@ DefaultContentLanguage = "de"
 title = "T wie Tesla"
 theme = "hugo-future-imperfect-slim"
 preserveTaxonomyNames = true
-paginate = 10
+paginate = 20
 pluralizeListTitles = false
 disableLanguages = [""]
 googleAnalytics = "UA-12561257-15"
@@ -39,7 +39,7 @@ googleAnalytics = "UA-12561257-15"
                     width = "100"
         [params.sidebar]
             about = "“T wie Tesla” ist ein Blog von Marcel aus der Supercharger-Stadt Erftstadt bei Köln. Ein Tesla-Fan schreibt für Tesla-Fans über seine persönlichen Erfahrungen mit dem Model 3."
-            postAmount = 5
+            postAmount = 10
             categories = false
             categoriesByCount = false
         [params.footer]
