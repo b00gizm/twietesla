@@ -3,9 +3,11 @@
 [postreadingtime]
   other = "Minuten"
 [recent_posts]
-  other = "Letzte Beiträge"
+  other = "Letzte Artikel"
 [see_more]
   other = "Mehr erfahren"
+[read]
+  other = "Diesen Artikel lesen"
 [read_more]
   other = "Weiterlesen"
 [categories]
