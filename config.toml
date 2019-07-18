@@ -72,5 +72,5 @@ googleAnalytics = "UA-12561257-15"
     categories = "/kategorien/:slug/"
 
 [social]
-    github = "marcelkraus/t-wie-tesla"
+    github = "marcelkraus/twietesla"
     twitter = "twietesla"
