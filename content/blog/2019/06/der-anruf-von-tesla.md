@@ -3,7 +3,7 @@ type = "post"
 date = "2019-06-11 12:00:00"
 title = "Der Anruf von Tesla"
 description = "Am 11. Juni 2019 klingelte gegen 17:00 Uhr das Telefon - Tesla aus München am Apparat, es geht um die Bestellung Ihres Model 3."
-featured = "/images/2019/06/model-s-auf-strasse.jpg"
+featured = "/images/2019/06/tesla-model-s-auf-strasse.jpg"
 featuredalt = "Ein Tesla Model S auf einer Straße in Kanada"
 categories = ["Bestellung & Vorfreude"]
 +++

@@ -3,7 +3,7 @@ type = "post"
 date = "2019-06-05 12:00:00"
 title = "Abholung im Juni"
 description = "Soeben wurde mir von Tesla per SMS ein Abholermin genannt: Noch im Juni werde ich mein Model 3 bekommen."
-featured = "/images/2019/06/model3-keycard-an-b-saeule.jpg"
+featured = "/images/2019/06/tesla-model-3-keycard-an-b-saeule.jpg"
 featuredalt = "Keycard des Tesla Model 3 an der B-Säule"
 categories = ["Bestellung & Vorfreude"]
 +++

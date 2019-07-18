@@ -3,7 +3,7 @@ type = "post"
 date = "2019-07-18 10:00:00"
 title = "Die ersten vier Wochen mit dem Model 3"
 description = "Am 19. Juni habe ich meinen Tesla in Neuss abgeholt. Nach vier Wochen nun ein erstes Fazit: War der Kauf des Model 3 eine gute Entscheidung?"
-featured = "/images/2019/07/model-3-im-kinoparkhaus.jpg"
+featured = "/images/2019/07/tesla-model-3-im-kinoparkhaus.jpg"
 featuredalt = "Mein Tesla Model 3 im Parkhaus des Hürth-Park in Hürth"
 categories = ["Unterwegs im Tesla"]
 +++
