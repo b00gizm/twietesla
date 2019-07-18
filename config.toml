@@ -21,30 +21,30 @@ googleAnalytics = "UA-12561257-15"
         faviconVersion = "1"
         msColor = "#ffffff" # Copy from the https://realfavicongenerator.net
         iOSColor = "#ffffff" # Copy from the https://realfavicongenerator.net
-        [params.header]
-            navbarTitle = "T wie Tesla"
-            dynamicTitles = true
-            searchMenu = true
-            shareMenu = false
-            languageMenu = false
-            [params.intro]
-                header = "T wie Tesla"
-                paragraph = "Tagebuch eines Tesla-Fahrers…"
-                rssIntro = true
-                socialIntro = true
-                [params.intro.pic]
-                    alt = "T wie Tesla – Tesla-Logo"
-                    shape = "circle"
-                    src = "/images/tesla-logo.jpg"
-                    width = "100"
-        [params.sidebar]
-            about = "“T wie Tesla” ist ein Blog von Marcel aus der Supercharger-Stadt Erftstadt bei Köln. Ein Tesla-Fan schreibt für Tesla-Fans über seine persönlichen Erfahrungen mit dem Model 3."
-            postAmount = 10
-            categories = false
-            categoriesByCount = false
-        [params.footer]
-            rssFooter = true
-            socialFooter = false
+    [params.header]
+        navbarTitle = "T wie Tesla"
+        dynamicTitles = true
+        searchMenu = true
+        shareMenu = false
+        languageMenu = false
+    [params.intro]
+        header = "T wie Tesla"
+        paragraph = "Tagebuch eines Tesla-Fahrers…"
+        rssIntro = true
+        socialIntro = true
+        [params.intro.pic]
+            alt = "T wie Tesla – Tesla-Logo"
+            shape = "circle"
+            src = "/images/tesla-logo.jpg"
+            width = "100"
+    [params.sidebar]
+        about = "“T wie Tesla” ist ein Blog von Marcel aus der Supercharger-Stadt Erftstadt bei Köln. Ein Tesla-Fan schreibt für Tesla-Fans über seine persönlichen Erfahrungen mit dem Model 3."
+        postAmount = 10
+        categories = false
+        categoriesByCount = false
+    [params.footer]
+        rssFooter = true
+        socialFooter = false
 
 [menu]
     [[menu.main]]
@@ -78,3 +78,4 @@ googleAnalytics = "UA-12561257-15"
 
 [social]
     github = "marcelkraus/t-wie-tesla"
+    twitter = "twietesla"
